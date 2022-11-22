@@ -44,7 +44,7 @@
     "@types/node": "^12.12.62",
     "@types/semver": "^6.2.2",
     "@zeit/ncc": "^0.21.1",
-    "husky": "^4.3.0",
+    "husky": "^4.3.8",
     "jest": "^26.4.2",
     "jest-circus": "^26.4.2",
     "prettier": "^1.19.1",
